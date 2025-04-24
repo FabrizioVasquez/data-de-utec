@@ -1,6 +1,7 @@
 # 🚀 Git + VS Code para Inteligencia Artificial: Tutorial de Ingeniería de Datos
 
 Este repositorio acompaña al tutorial de 10 minutos del curso de maestría en **Inteligencia Artificial**, en el módulo de **Data Engineering**, y enseña cómo utilizar `Git` junto a `Visual Studio Python` en proyectos reales de ciencia de datos o IA.
+Esto es una prueba de conflictos.
 
 ---
 
